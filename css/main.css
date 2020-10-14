@@ -20,6 +20,7 @@
   transform-origin: 156px 82px;
   transition: all .5s linear;
 }
+
 .smiley:hover .left-eyebrow {
   transform: rotate(100deg);
 }
